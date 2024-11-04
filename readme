@@ -1,0 +1,11 @@
+- bufio  for get the user input 
+- os  is a package it is used fo rmany things like stdin , create file 
+- strcov   for convert the user string input to other datatype 
+- panic  it stop the execution af the program while user for eror 
+# defer 
+- defer  when the compiler see the line with defer it will go to stack  like 1 , 2 , 3
+        then it prints like 3 , 2, 1  like first in last out 
+# files         
+- os.Create fro cretae the file 
+- io.WriteString  for wirte the file 
+- ioutils for read the file 
