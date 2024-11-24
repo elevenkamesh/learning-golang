@@ -34,3 +34,11 @@ func EncodeJson() {
 
 	fmt.Println(string(finalJosn))
 }
+
+func DecodeJson() {
+	json := []byte(`{
+		"name : "react",
+		"price
+	}`)
+	print(json)
+}

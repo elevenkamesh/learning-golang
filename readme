@@ -9,3 +9,22 @@
 - os.Create fro cretae the file 
 - io.WriteString  for wirte the file 
 - ioutils for read the file 
+
+
+# json 
+        json.valid(jsondata)
+
+# print
+        %v for variable 
+        %t for type of the  variable
+
+# mod 
+        go mod init  github.com/elevenkamesh/mymodules [standard to create mod]
+         go mod tidy
+         go list 
+         go list all 
+         go list -m all
+         go list -m -versions github.com/gorilla/mux
+         go mod why github.com/gorilla/mux
+
+        
